@@ -2,7 +2,7 @@
 Copyright 2023 MINI PROJET LANGAGE C, GROUPE C, INC. All Rights Reserved.
 =========================================================================
 
-Dépot git : 
+Dépot git : https://github.com/maelgoujon/mini_projet_c_sujet2
 
 
 Mini Projet C Package:
